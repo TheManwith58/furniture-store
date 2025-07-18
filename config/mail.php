@@ -1,0 +1,1 @@
+'admin_email' => env('MAIL_ADMIN_ADDRESS', 'admin@example.com'),
